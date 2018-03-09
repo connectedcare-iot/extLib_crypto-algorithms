@@ -14,7 +14,6 @@
 /*************************** HEADER FILES ***************************/
 #include <stdio.h>
 #include <string.h>
-#include <memory.h>
 #include "md2.h"
 
 /*********************** FUNCTION DEFINITIONS ***********************/
